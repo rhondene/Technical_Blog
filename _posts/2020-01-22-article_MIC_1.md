@@ -1,3 +1,5 @@
+# On Maximal Information Coefficient:  A Modern Approach for Finding Associations in Large Data sets
+
 <em>In this two-part</em> <em>blog post, I will share with you the idea behind maximal information coefficient, MIC, and how it is applied to find a wide range of relationships in large data sets.</em>
 
 <strong>Part 1</strong>
